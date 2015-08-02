@@ -9,3 +9,8 @@
 實作`Annotation`範例
 
 	$ python ex2/`python_name`.py
+
+### ex3
+實作`import`和`from`
+
+	$ pyhon ex3/`python_name`.py
