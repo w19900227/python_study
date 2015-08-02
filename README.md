@@ -1,5 +1,11 @@
 # python_study
 
+### 懶人執行
+`範例` 會自動執行ex1裡的main的py檔案
+
+	$ ./run.sh ex1 main
+
+
 ### ex1
 實作`*`和`**`的差異範例`main.py`
 
