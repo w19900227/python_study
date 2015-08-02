@@ -13,6 +13,11 @@ def func1():
 def func2():
 	print "inside func2()"
 
+print "func1===================="
 func1()
+
+print "func2===================="
 func2()
+
+print "func1 name===================="
 print func1.__name__
