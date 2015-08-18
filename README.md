@@ -20,3 +20,12 @@
 實作`import`和`from`
 
 	$ pyhon ex3/`python_name`.py
+
+### ex4
+基礎
+
+`main.py`字串前加r範例
+
+`main2.py`抓取json sample
+
+`main3.py`if `in`&`is` sample
